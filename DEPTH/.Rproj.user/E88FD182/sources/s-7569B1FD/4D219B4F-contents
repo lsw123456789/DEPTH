@@ -1,0 +1,13 @@
+Package: DEPTH
+Type: Package
+Title: Tumor heterogeneity level evaluation
+Version: 1.0
+Author: Mengyuan Li; Xiaosheng Wang
+Maintainer: Mengyuan Li <mengyuanli@stu.cpu.edu.cn>; Xiaosheng Wang <xiaosheng.wang@cpu.edu.cn>
+Description: This package shows a DEPTH algorithm to calculate tumor heterogeneity level in R.
+    DEPTH evaluates the tumor heterogeneity level of each tumor sample based on gene expression
+    profiles.
+License: GPL
+Encoding: UTF-8
+LazyData: no
+RoxygenNote: 7.1.2
